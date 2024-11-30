@@ -207,7 +207,7 @@ svg {
 #player-names-container {
     position: absolute;
     top: 31%;
-    right: 13%;
+    right: 10%;
     width: 200px; /* Ширина на контейнера за имената */
     background-color: #f4f4f9;
     border: 2px solid #ccc;
